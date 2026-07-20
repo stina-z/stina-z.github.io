@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css_für_arno.css" />
+    </head>
+<body>
+
+<nav class="nav">
+   
+ <img src="C:\Users\Stina\OneDrive\1. Semester\Internettechnik\Abgabe\bilder-website\logo_wohnglück.svg"
+     alt="Logo"
+     width="100" 
+     height="48"> 
+  
+ <a href="homepage.html">
+    Home
+ </a>        
+
+ <a href="Über-Uns.html">
+    Über Uns
+ </a>
+
+ <a href="Projektseite.html">
+    Projekte
+ </a>
+
+ <a href="Öffnungszeiten.html">
+    Kontakt
+ </a>
+
+ <a href="Jobs.html">
+    Jobs
+ </a>
+
+ <a href="Impressum.html">
+    Impressum
+ </a>        
+
+</nav>
+
+<div class="main">
+
+ <h2>Bisherige Projekte</h2>
+
+ <div class="move-rows">
+
+     <div class="row">
+
+     <a href="Projekt_Portfolio.html" class="img-link">
+
+         <div class="img-wrapper">
+             <img src="C:\Users\Stina\OneDrive\1. Semester\Internettechnik\Abgabe\bilder-website\Sandra_skaliert.jpg" 
+                 alt="Wohnhaus Sandra" 
+                 width="640" 
+                 height="480">
+         </div>
+      </a>
+
+     <div class="textblock">
+
+         <h4>Wohnhaus Sandra</h4>
+
+         <p>Ein zweistöckiges Wohnhaus mit Keller, klaren Linien und einer ruhigen, offenen Raumstruktur. Große Fensterflächen bringen viel Tageslicht ins Innere und schaffen eine weiche Verbindung zum Garten.</p>
+         <p>„Dieses Haus sollte sich anfühlen wie ein stiller Rückzugsort — hell, freundlich und ohne jede Übertreibung.“ - Susanna Beispiel</p>
+
+     </div>
+
+ </div>
+
+ <div class="row">
+
+     <div class="img-wrapper">
+         <img src="C:\Users\Stina\OneDrive\1. Semester\Internettechnik\Abgabe\bilder-website\Georgine_skaliert.jpg" 
+             alt="Wohnhaus Georgine" 
+             width="640" 
+             height="480">
+     </div>
+
+     <div class="textblock">
+
+         <h4>Wohnhaus Georgine</h4>
+
+         <p>Ein modernes Wohnhaus mit zwei Geschossen und Keller, gestaltet für viel Ruhe und klare Abläufe im Alltag. Die Räume sind schlicht, warm und bewusst reduziert.</p>
+         <p>„Ich wollte ein Haus schaffen, das nicht laut ist, sondern leise begleitet — ein Ort, der einfach gut tut.“ - Susanna Beispiel</p>
+
+     </div>
+
+ </div>
+
+ <div class="row">
+
+     <div class="img-wrapper">
+        <img src="C:\Users\Stina\OneDrive\1. Semester\Internettechnik\Abgabe\bilder-website\Hana.jpg" 
+             alt="Wohnhaus Hana" 
+             width="640" 
+             height="480">
+     </div>
+
+     <div class="textblock">
+
+         <h4>Wohnhaus Hana</h4>
+         <p>Ein kompaktes Familienhaus mit zwei Etagen und einem vollwertigen Keller, gebaut auf leichtem Gefälle. Innen dominiert ein offener Wohnbereich, der sich zum Tal hin öffnet.</p>
+         <p>„Mir war wichtig, dass die Hanglage nicht als Herausforderung, sondern als Charakter genutzt wird — das Haus lebt vom Blick.“ - Herbert Irgendwer</p>
+
+     </div>
+
+ </div>
+
+</div>
+
+</body>
+
+</html>
